@@ -32,9 +32,9 @@ Hello! I am __Johanna Tay__, determined to learn more about the world through th
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### DEAL DILIGENCE PTE LTD
+Key Executive Officer<br>
+Sep-2018 to Present: 3 years 
 
 ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
 UNIT: BCG GAMMA
